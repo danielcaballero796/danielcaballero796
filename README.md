@@ -1,16 +1,18 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Daniel Caballero](https://danielcaballero.herokuapp.com)!
 
-<!--
-**danielcaballero796/danielcaballero796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working at UFPS. I´m live in Cúcuta, Colombia.
 
-Here are some ideas to get you started:
+I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm focusing on 🧑‍💻
+
+Currently improving my English, JS and PHP skills. Also I'm learning about ReactJS <br />
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcaballero796/)](https://www.linkedin.com/in/danielcaballero796/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_dan796)](https://twitter.com/_dan796)
+
+
+- ⚙️ I use daily: .php, .js, .html, .css, oracle
+- ⚡️ Never Stop Learning
