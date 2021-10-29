@@ -6,7 +6,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
 
 ### What I'm focusing on 🧑‍💻⚡️
 
-Currently improving my English, JS, Kotlin and Flutter skills. Also I'm learning about ReactJS <br />
+Currently improving my English, JS, PHP and Flutter skills. Also I'm learning about ReactJS and React Native <br />
 
 ### Find me elsewhere 🌎
 
@@ -78,6 +78,4 @@ Currently improving my English, JS, Kotlin and Flutter skills. Also I'm learning
   
 ![Made with love in Colombia](https://madewithlove.now.sh/co?heart=true&template=for-the-badge)
   
-![HitCount](http://hits.dwyl.com/danielcaballero796/danielcaballero796.svg)
-
 </p>
